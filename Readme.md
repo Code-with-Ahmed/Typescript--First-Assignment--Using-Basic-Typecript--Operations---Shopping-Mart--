@@ -1,4 +1,4 @@
-**TypeScript Supermart Application**
+***TypeScript Supermart Application***
 A simple TypeScript console application for a supermart, featuring a menu-driven interface, item selection, quantity input, and a checkout process with discount offers.
 
 **Table of Contents**
